@@ -1,0 +1,14 @@
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Aplicacao.dll
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Dominio.dll
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Repositorio.dll
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Aplicacao.pdb
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Dominio.pdb
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\bin\Debug\BDEstagio.Repositorio.pdb
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\obj\Debug\DOS.csprojResolveAssemblyReference.cache
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\obj\Debug\DOS.csproj.CoreCompileInputs.cache
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\obj\Debug\DOS.csproj.CopyComplete
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cfred\source\repos\BDEstagio\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

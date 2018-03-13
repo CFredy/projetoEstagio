@@ -1,0 +1,5 @@
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Dominio\bin\Debug\BDEstagio.Dominio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Dominio\bin\Debug\BDEstagio.Dominio.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Dominio\obj\Debug\BDEstagio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Dominio\obj\Debug\BDEstagio.Dominio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Dominio\obj\Debug\BDEstagio.Dominio.pdb

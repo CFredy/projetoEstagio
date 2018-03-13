@@ -1,0 +1,11 @@
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Aplicacao.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Aplicacao.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Dominio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Repositorio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Dominio.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\bin\Debug\BDEstagio.Repositorio.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\obj\Debug\BDEstagio.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\obj\Debug\BDEstagio.Aplicacao.csproj.CopyComplete
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\obj\Debug\BDEstagio.Aplicacao.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\obj\Debug\BDEstagio.Aplicacao.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Aplicacao\obj\Debug\BDEstagio.Aplicacao.csprojResolveAssemblyReference.cache

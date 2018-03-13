@@ -1,0 +1,6 @@
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\bin\Debug\BDEstagio.Repositorio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\bin\Debug\BDEstagio.Repositorio.pdb
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\obj\Debug\BDEstagio.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\obj\Debug\BDEstagio.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\obj\Debug\BDEstagio.Repositorio.dll
+C:\Users\cfred\source\repos\BDEstagio\BDEstagio.Repositorio\obj\Debug\BDEstagio.Repositorio.pdb
